@@ -1,0 +1,13 @@
+.list-group-item {
+  border: 1px solid gainsboro;
+  border-radius: 3px;
+  display: flex;
+  justify-content: space-between;
+}
+.pull-left {
+  padding: 9px 0 0 11px;
+}
+.pull-right {
+  align-self: center;
+  padding-right: 15px;
+}
